@@ -1,2 +1,1 @@
-# fstack-project
-Projeto full stack 
+A simple recipe site. 
