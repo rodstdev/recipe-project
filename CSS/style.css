@@ -1,4 +1,38 @@
+body {
+    width: 500px;
+    margin: 0 auto;
+}
+
 h1 {
-    color: gold;
+    color: yellow;
     font-family: Sevillana;
+    background-color: #DFAC14;
+}
+
+h2 {
+    font-family: Sevillana;
+}
+
+h3 {
+    font-family: Sevillana;
+}
+
+ol {
+    background-color: #cfbee4;
+}
+
+ul {
+    background-color: #eb85be;
+}
+
+.como-fazer {
+    background-color: #b060eb;
+}
+
+.ingredientes {
+    background-color: #ed369c;
+}
+
+#menu-principal {
+    background-color: #f2cf5c;
 }
